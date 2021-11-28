@@ -7,7 +7,11 @@ In order to succeed, the player will have to navigate the land without being exp
 
 This game takes the use of Animations and Sound effects, which are royalty free, credits to what and where they are from can be found in the credits.txt file.
 
-This game was completed in a team of 6
+This game was completed in a team of 6 
+
+<h3>What I Gathered From This</h3>
+I mainly gathered communication skills and learning how to better work with other people
+
 
 <h3>Download</h3>
 If you'd like to download the completed game as a binary the use the following link.
