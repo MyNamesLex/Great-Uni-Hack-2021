@@ -10,7 +10,7 @@ This game takes the use of Animations and Sound effects, which are royalty free,
 This game was completed in a team of 6 
 
 <h3>What I Gathered From This</h3>
-I mainly gathered communication skills and learning how to better work with other people
+I mainly gathered communication skills and learning how to better work with other people and reinforcing what I already knew and tips on level design
 
 
 <h3>Download</h3>
