@@ -10,13 +10,11 @@ This game takes the use of Animations and Sound effects, which are royalty free,
 This game was completed in a team of 6 
 
 <h3>What I Gathered From This</h3>
-I mainly gathered communication skills and learning how to better work with other people using Git (here's the repo we used https://github.com/OMANOMNOM/HackathonV1) and reinforcing what I already knew and tips on level design
+I mainly gathered communication skills and learning how to better work with other people using Git <a href="https://github.com/OMANOMNOM/HackathonV1">here's the repo we used </a> and reinforcing what I already knew and tips on level design
 
 
 <h3>Download</h3>
-If you'd like to download the completed game as a binary you can use the following link.
-
-https://1drv.ms/u/s!Ag5pGqJNR7SshZIORqgvxTAYTujnDg?e=XxsafN
+If you'd like to download the completed game as a binary you can use the following link <a href="https://1drv.ms/u/s!Ag5pGqJNR7SshZIORqgvxTAYTujnDg?e=XxsafN">here</a>.
 
 <h3>My Participation</h3>
 
