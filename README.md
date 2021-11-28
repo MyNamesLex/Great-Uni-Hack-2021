@@ -18,4 +18,4 @@ https://1drv.ms/u/s!Ag5pGqJNR7SshZIORqgvxTAYTujnDg?e=XxsafN
 
 Here is the submission page, this includes what I did to help produce this project
 
-devpost.com/software/nucelar-escape
+https://devpost.com/software/nucelar-escape
