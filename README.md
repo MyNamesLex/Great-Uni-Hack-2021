@@ -14,7 +14,7 @@ I mainly gathered communication skills and learning how to better work with othe
 
 
 <h3>Download</h3>
-If you'd like to download the completed game as a binary you can use the following link <a href="https://1drv.ms/u/s!Ag5pGqJNR7SshZIORqgvxTAYTujnDg?e=XxsafN">here</a>.
+If you'd like to download the build you can do so <a href="https://1drv.ms/u/s!Ag5pGqJNR7SshZIORqgvxTAYTujnDg?e=XxsafN">here</a>.
 
 <h3>My Participation</h3>
 
