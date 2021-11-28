@@ -11,7 +11,7 @@ This game takes the use of Animations and Sound effects, which are royalty free,
 This game was completed in a team of 6 
 
 <h3>What I Gathered From This</h3>
-I mainly gathered communication skills and learning how to better work with other people using Git <a href="https://github.com/OMANOMNOM/HackathonV1">here's the repo we used </a> and reinforcing what I already knew and tips on level design
+I mainly gathered communication skills and learning how to better work with other people using Git <a href="https://github.com/OMANOMNOM/HackathonV1">here's the repo we used</a> and reinforcing what I already knew and tips on level design
 
 <h3>What the experience was like for me</h3>
 This was an extremely fun experience, I was very grateful that i found a team who was enthusiastic and fun to talk to and be around, but, they were not experienced in Unity mainly due to Unity not being part of their degree's and another one being a First Year game dev student so I was teaching him some things to help him out. However, they were very enthusiastic and eager to learn how to use Unity so it was an enjoyable experience.
