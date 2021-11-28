@@ -13,3 +13,9 @@ This game was completed in a team of 6
 If you'd like to download the completed game as a binary the use the following link.
 
 https://1drv.ms/u/s!Ag5pGqJNR7SshZIORqgvxTAYTujnDg?e=XxsafN
+
+<h3>My Participation</h3>
+
+Here is the submission page, this includes what I did to help produce this project
+
+devpost.com/software/nucelar-escape
