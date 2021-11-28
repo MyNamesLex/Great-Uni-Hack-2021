@@ -12,6 +12,12 @@ This game was completed in a team of 6
 <h3>What I Gathered From This</h3>
 I mainly gathered communication skills and learning how to better work with other people using Git <a href="https://github.com/OMANOMNOM/HackathonV1">here's the repo we used </a> and reinforcing what I already knew and tips on level design
 
+<h3>What the experience was like for me</h3>
+This was an extremely fun experience, I was very grateful that i found a team who was enthusiastic and fun to talk to and be around, but, they were not experienced in Unity mainly due to Unity not being part of their degree's and another one being a First Year game dev student so I was teaching him some things to help him out. However, they were very enthusiastic and eager to learn how to use Unity so it was an enjoyable experience.
+
+Some of the hackathon was me fixing problems they were dealing with and teaching them how to do things in Unity, others was me making parts of the game and others was tech issues with the repo which resulted in us losing some progress and having to make a new one. However, my main takeway from this is that I like to be a project leader and manage people delegating tasks to them and also making games, primarily the programming aspect.
+
+Overall, this experience was extremely exhausting, resulting in us staying awake till 4am to fix issues, submit, giving talking points to the person who did the video submission for the project and last minute changes, but, this was also extremely fun and just having a fun time talking, meeting new people and making games.
 
 <h3>Download</h3>
 If you'd like to download the build you can do so <a href="https://1drv.ms/u/s!Ag5pGqJNR7SshZIORqgvxTAYTujnDg?e=XxsafN">here</a>.
