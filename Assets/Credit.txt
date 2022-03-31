@@ -16,8 +16,8 @@ Models
 All models were taken from the same website Maximo.com, which allows for royalty free 3D models
 Names of models from site
 
-Douglass - https://www.mixamo.com/#/?page=1&type=Character
-Chad -  ​​https://www.mixamo.com/#/?page=2&type=Character
+Douglas - https://www.mixamo.com/#/?page=1&type=Character
+Chad -  https://www.mixamo.com/#/?page=2&type=Character
 Alex - https://www.mixamo.com/#/?page=1&query=Agents&type=Character
 
 
